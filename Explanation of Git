@@ -23,3 +23,6 @@
 # 2. -u -->local cloud repositry ko track kar rha hota ha
 # 3. origin --> origin hamara cloud ha
 # 4. master -->master wo branch ha jis ke upper hamra code deploy hoga
+
+for 2nd method( clone )
+git clone (github repo link)
