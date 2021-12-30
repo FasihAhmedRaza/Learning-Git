@@ -1,0 +1,25 @@
+# git init---->(for making local folde into repositry)
+
+# git status --->(for checking status)
+
+# Untracked files ---> git abhi infiles ko watch nhi kar rhaa
+
+#  git add .(for making files trackable) Or
+# ---> se git infiles ko watch karna start kardee gaa
+
+
+#  first time for account required
+# $git config --global user.name " apna user name "
+
+# $git config --global user.email " apni email "
+
+# git commit -m "Jo kaam apnay kya hay"
+
+# $ git remote add origin "link" --->
+#  used for local repostry and cloud repositry ko merge karne  ke liyee used karte ha
+
+# $ git push -u origin master
+# 1. push-->local repo se cloud repo me code bejh rha ha
+# 2. -u -->local cloud repositry ko track kar rha hota ha
+# 3. origin --> origin hamara cloud ha
+# 4. master -->master wo branch ha jis ke upper hamra code deploy hoga
