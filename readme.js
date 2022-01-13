@@ -41,10 +41,10 @@ console.log(a+b);
 // git branch file name ==> for creating new branch
 
 //git branch => for check how many branches do you have & in which branch you use/login now
-   * -> indicates the current branch you use
+   // * -> indicates the current branch you use
 
 // git checkout branch name => then you switch to (branch name as you written) branch=> matlab jo apne branch bani ha ap us me aa jao gee
 
 //for merging (files or anything)use-> 
 // $ git merge branch name
-
+<code is updated></code>
